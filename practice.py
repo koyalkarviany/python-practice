@@ -2,6 +2,7 @@ a = int(input('enter your number: '))
 print (a)
 b = int(input('enter you second number: '))
 print (b)
+print(b)
 # for i in range 
 if a is  =:
        print('your entered correct number')
